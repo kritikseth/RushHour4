@@ -10,6 +10,7 @@ setuptools.setup(
     description = 'Reinforcement Learning Tools',
     py_modules = [''],
     long_description_content_type = 'text/markdown',
+    url = RushHour4.__url__,
     classifiers = [
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: BSD License',
